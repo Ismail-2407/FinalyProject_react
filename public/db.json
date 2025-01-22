@@ -1,0 +1,32 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Avocado and Lentil Salad",
+      "description": "A light and hearty salad with avocado, lentils, and roasted vegetable cubes.",
+      "price": 32,
+      "image": "/images/image 9.3.png"
+    },
+    {
+      "id": 2,
+      "name": "Ravioli with Herbs",
+      "description": "Homemade ravioli with a delicate herb filling.",
+      "price": 28,
+      "image": "/images/image 2.6.png"
+    },
+    {
+      "id": 3,
+      "name": "Shrimp and Mango Salad",
+      "description": "A refreshing salad with shrimp, mango, and avocado.",
+      "price": 35,
+      "image": "/images/03.png"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "user@example.com",
+      "password": "password"
+    }
+  ]
+}
